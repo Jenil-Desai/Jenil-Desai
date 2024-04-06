@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter & Swift<br>👯 I’m looking to collaborate on HTML & CSS & JS<br>🤝 I’m looking for help with CSS<br>🌱 I’m currently learning Node.js<br>💬 Ask me about Computer<br>⚡ Fun fact
+🔭 I’m currently working on MERN Stack<br>👯 I’m looking to collaborate on MERN<br>🤝 I’m looking for help with React & Next.Js<br>🌱 I’m currently learning React<br>💬 Ask me about Computer<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
