@@ -8,7 +8,7 @@
 
 👋 Hi, I'm Jenil Desai, an aspiring Computer Engineer currently pursuing a BSc in Information Technology at Atmiya University. I'm deeply passionate about Software Development and dedicated to academic excellence.
 
-💻 I have a growing skill set in technologies including Docker, Git, GitHub, Linux, HTML, CSS, JavaScript, Typescript, Node.js, React.js, MongoDB, and more.
+💻 I have a growing skill set in technologies including Docker, Git, GitHub, Linux, HTML, CSS, JavaScript, Typescript, Node.js, React.js, MongoDB, MySQL, PostgreSQL, and more.
 
 🚀 I'm driven to become a Software Engineer and am excited about contributing to an IT company. I love learning new technologies and am always eager to expand my knowledge and skills.
 
