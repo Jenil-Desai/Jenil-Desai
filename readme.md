@@ -26,9 +26,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        13 hrs 26 mins  █████████████████████▒░░░   85.40 %
-CocoaPods         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-Groovy            12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+TypeScript        10 hrs 45 mins  █████████████████████░░░░   83.37 %
+Groovy            12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Java Properties   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
 ```
 
 <!--END_SECTION:waka-->
