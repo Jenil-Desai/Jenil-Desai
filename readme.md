@@ -26,9 +26,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        10 hrs 45 mins  █████████████████████░░░░   83.37 %
-Groovy            12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-Java Properties   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+TypeScript        9 hrs 4 mins    ████████████████████▓░░░░   82.44 %
+Prisma            12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+Java Properties   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
 
 <!--END_SECTION:waka-->
