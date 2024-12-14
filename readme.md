@@ -26,9 +26,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        9 hrs 4 mins    ████████████████████▓░░░░   82.44 %
-Prisma            12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-Java Properties   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+TypeScript   12 hrs 8 mins   ███████████████████████░░   91.83 %
+Prisma       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+CocoaPods    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
