@@ -26,10 +26,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   13 hrs 7 mins   ███████████████████████░░   92.20 %
-Markdown     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-CocoaPods    13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+TypeScript   15 hrs 29 mins  ███████████████████████▒░   93.27 %
+Markdown     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+CocoaPods    13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
 <!--END_SECTION:waka-->
