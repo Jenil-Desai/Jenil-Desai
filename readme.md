@@ -46,8 +46,3 @@ Python       1 hr 21 mins    ███░░░░░░░░░░░░░░
 <p>
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@jenxl_09/b8102f6f-f9e3-4f01-9f62-81ca0bf42cab.png" /></a>
 </p>
-
-**Languages Over Last 7 Days:**
-<p>
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@jenxl_09/0c934d50-0c89-4671-85c9-56bc55423d5d.png" /></a>
-</p>
