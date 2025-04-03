@@ -34,15 +34,3 @@ XML               49 mins         ▓░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-📈 **My GitHub Stats:**
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jenil-Desai&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenil-Desai&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
-
-📉 **Coding Activity Over Last 7 Days:**
-<p>
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@jenxl_09/b8102f6f-f9e3-4f01-9f62-81ca0bf42cab.png" /></a>
-</p>
