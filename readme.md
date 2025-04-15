@@ -6,16 +6,16 @@
 
 ### Glad to see you here!
 
-👋 Hi, I'm Jenil Desai, an aspiring Computer Engineer currently pursuing a BSc in Information Technology at Atmiya University. I'm deeply passionate about Software Development and dedicated to academic excellence.
+👋 Hi, I'm Jenil Desai, a Full-Stack Developer and Tech Innovator currently pursuing a BSc in Information Technology at Atmiya University (2nd rank with 94%). I bridge software development with hardware solutions.
 
-💻 I have a growing skill set in technologies including Docker, Next.js, Git, GitHub, Linux, HTML, CSS, JavaScript, Typescript, Node.js, React.js, MongoDB, MySQL, PostgreSQL, and more.
+💻 My technical arsenal includes C, Java, Python, TypeScript, JavaScript, PHP, Go, Dart, Next.js, React.js, React Native, Flutter, Node.js, Express.js, Bun.js, Fiber, Hono, Web Sockets, RPCs & gRPCs, MySQL, MongoDB, PostgreSQL, Oracle, Redis, Supabase, Firebase, Docker, K8s, Cloudflare Workers, Linux, Git/GitHub, and Kafka.
 
-🚀 I'm driven to become a Software Engineer and am excited about contributing to an IT company. I love learning new technologies and am always eager to expand my knowledge and skills.
+🚀 I'm passionate about transforming ideas into solutions and creating comprehensive tech ecosystems that solve real-world challenges.
 
 **Talking about Personal Stuffs:**
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on Buliding Crazy Idea To Life;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Web & Mobile Application Devlopement on [100xDevs](https://app.100xdevs.com/) & [YouTube](https://www.youtube.com/playlist?list=PLRAV69dS1uWSjBBJ-egNNOd4mdblt1P4c);
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I'm currently working on Building Zap Labs & Photo AI;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I'm currently learning Desktop & Mobile Application Development;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: jenildev91@gmail.com;
 
@@ -24,7 +24,6 @@
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-
 ```txt
 TypeScript          10 hrs 28 mins  ████████████░░░░░░░░░░░░░   48.54 %
 Dart                7 hrs 6 mins    ████████▒░░░░░░░░░░░░░░░░   32.93 %
@@ -32,5 +31,4 @@ Java                2 hrs 6 mins    ██▒░░░░░░░░░░░�
 Markdown            51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
 Go                  32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
 ```
-
 <!--END_SECTION:waka-->
