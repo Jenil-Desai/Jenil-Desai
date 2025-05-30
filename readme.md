@@ -26,9 +26,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       13 hrs 39 mins  ██████████████▓░░░░░░░░░░   58.83 %
-Prisma           1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-SSH Config       24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+TypeScript     11 hrs 38 mins  ██████████████░░░░░░░░░░░   55.46 %
+Markdown       27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+Bash           25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
 ```
 
 <!--END_SECTION:waka-->
