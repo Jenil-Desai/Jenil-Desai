@@ -6,11 +6,13 @@
 
 ### Glad to see you here!
 
-👋 Hi, I'm Jenil Desai, a Full-Stack Developer and Tech Innovator currently pursuing a BSc in Information Technology at Atmiya University (2nd rank with 94%). I bridge software development with hardware solutions.
+# 👋 Hey there, I'm Jenil Desai
 
-💻 My technical arsenal includes C, Java, Python, TypeScript, JavaScript, PHP, Go, Dart, Next.js, React.js, React Native, Flutter, Node.js, Express.js, Bun.js, Fiber, Hono, Web Sockets, RPCs & gRPCs, MySQL, MongoDB, PostgreSQL, Oracle, Redis, Supabase, Firebase, Docker, K8s, Cloudflare Workers, Linux, Git/GitHub, and Kafka.
+I’m a Full-Stack Engineer and BSc.IT student based in Gujarat, India, with a solid foundation in software development and 7 years of hands-on experience in hardware engineering. This unique blend allows me to architect scalable systems with a deep understanding of both software logic and physical infrastructure. My stack revolves around TypeScript, Go, React, Next.js, Docker, PostgreSQL, and more.
 
-🚀 I'm passionate about transforming ideas into solutions and creating comprehensive tech ecosystems that solve real-world challenges.
+Currently, I'm exploring the decentralized world of Web3 — building on **Ethereum (Solidity)** and **Solana (Rust)** to craft secure, innovative dApps. Some of my key projects include **Zaplabs** (a Zapier-style automation platform), **Pixelbloom** (a full wallpaper platform ecosystem), and **Pingal** (a Solana-powered uptime monitoring DApp). My work blends UI precision, backend efficiency, and a deep curiosity for emerging tech.
+
+I'm passionate about open-source, developer communities, and continuous learning. As the Web Dev Lead at Atmiya Developer Student Club, I actively host workshops and hackathons, empowering students to build cool things. Let's build the future of the web together 🌐💫 — feel free to reach out or explore my repositories!
 
 **Talking about Personal Stuffs:**
 
