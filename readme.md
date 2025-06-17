@@ -6,18 +6,16 @@
 
 ### Glad to see you here!
 
-# 👋 Hey there, I'm Jenil Desai
-
-I’m a Full-Stack Engineer and BSc.IT student based in Gujarat, India, with a solid foundation in software development and 7 years of hands-on experience in hardware engineering. This unique blend allows me to architect scalable systems with a deep understanding of both software logic and physical infrastructure. My stack revolves around TypeScript, Go, React, Next.js, Docker, PostgreSQL, and more.
-
-Currently, I'm exploring the decentralized world of Web3 — building on **Ethereum (Solidity)** and **Solana (Rust)** to craft secure, innovative dApps. Some of my key projects include **Zaplabs** (a Zapier-style automation platform), **Pixelbloom** (a full wallpaper platform ecosystem), and **Pingal** (a Solana-powered uptime monitoring DApp). My work blends UI precision, backend efficiency, and a deep curiosity for emerging tech.
-
-I'm passionate about open-source, developer communities, and continuous learning. As the Web Dev Lead at Atmiya Developer Student Club, I actively host workshops and hackathons, empowering students to build cool things. Let's build the future of the web together 🌐💫 — feel free to reach out or explore my repositories!
+🚀 Full-Stack Engineer | BSc.IT @Atmiya University | Former Hardware Tech turned Coder  
+💻 Building with TypeScript, Go, React, Docker & PostgreSQL  
+🌐 Exploring Web3 with Solidity (Ethereum) & Rust (Solana)  
+🛠️ Projects: Zaplabs ⚡ Pingal 🔗 Pixelbloom 🎨 Wanderlust 🌍  
+🤝 Open-source enthusiast | Tech community lead | Always learning!
 
 **Talking about Personal Stuffs:**
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I'm currently working on Building Zap Labs & Photo AI;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I'm currently learning Desktop & Mobile Application Development;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I'm currently working on building Streamline;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I'm currently learning web 3 development;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: jenildev91@gmail.com;
 
