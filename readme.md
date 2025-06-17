@@ -26,10 +26,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        28 hrs 47 mins  ██████████████████████░░░   87.45 %
-shell script      56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-Rust              49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-jsonc             17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+TypeScript        36 hrs 33 mins  ██████████████████████▒░░   88.86 %
+shell script      56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+Rust              49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+JavaScript        22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 
 <!--END_SECTION:waka-->
