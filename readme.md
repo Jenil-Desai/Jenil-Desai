@@ -26,9 +26,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    11 hrs 10 mins  ███████████▒░░░░░░░░░░░░░   45.26 %
-Rust          10 hrs 45 mins  ███████████░░░░░░░░░░░░░░   43.59 %
-CSS           20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+TypeScript     11 hrs 10 mins  ███████████░░░░░░░░░░░░░░   44.03 %
+Rust           10 hrs 45 mins  ██████████▓░░░░░░░░░░░░░░   42.40 %
+Markdown       20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
