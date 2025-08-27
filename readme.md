@@ -26,11 +26,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                         4 hrs 18 mins   █████████████▓░░░░░░░░░░░   55.01 %
-Go                                 2 hrs 49 mins   █████████░░░░░░░░░░░░░░░░   36.05 %
-C#                                 35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
-Prisma                             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-Microsoft Visual Studio Solution   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Go                                 2 hrs 49 mins   ██████████████████░░░░░░░   71.78 %
+C#                                 35 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.08 %
+TypeScript                         20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
+Microsoft Visual Studio Solution   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
