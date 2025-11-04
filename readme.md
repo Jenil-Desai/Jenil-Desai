@@ -26,10 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go           42 mins         ████████████████████▓░░░░   82.55 %
-Java         3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
-TypeScript   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-XML          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
