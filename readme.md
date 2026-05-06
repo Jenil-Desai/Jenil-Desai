@@ -26,9 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-jsonc        9 mins                ███████████▒░░░░░░░░░░░░░   44.91 %
-TypeScript   8 mins                ██████████░░░░░░░░░░░░░░░   39.70 %
-Markdown     0 secs                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
