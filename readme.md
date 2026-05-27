@@ -26,7 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   43 mins               █████████████████████████   100.00 %
+Rust           4 hrs 11 mins         ███████████▒░░░░░░░░░░░░░   45.70 %
+TypeScript     2 hrs 9 mins          ██████░░░░░░░░░░░░░░░░░░░   23.62 %
+Go             1 hr 2 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
+shell script   54 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
+jsonc          8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 ```
 
 <!--END_SECTION:waka-->
