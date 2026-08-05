@@ -26,10 +26,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     10 hrs 57 mins        ██████████████▓░░░░░░░░░░   59.25 %
-Rust           1 hr 49 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
-shell script   59 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
-Docker         39 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+TypeScript     13 hrs 40 mins        ███████████████░░░░░░░░░░   59.62 %
+Prisma         2 hrs 5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
+Rust           1 hr 49 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
+shell script   53 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
 ```
 
 <!--END_SECTION:waka-->
