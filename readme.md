@@ -26,10 +26,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     23 hrs 16 mins        ██████████████████▓░░░░░░   74.91 %
-shell script   1 hr 26 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
-Markdown       1 hr 24 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-Prisma         55 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+TypeScript     16 hrs 29 mins        █████████████████▓░░░░░░░   70.06 %
+shell script   1 hr 26 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+Markdown       1 hr 15 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+Astro          44 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
 ```
 
 <!--END_SECTION:waka-->
