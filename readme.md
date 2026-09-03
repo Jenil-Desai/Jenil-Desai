@@ -26,10 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     15 hrs 53 mins        ████████████████▓░░░░░░░░   67.26 %
-shell script   1 hr 31 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
-Markdown       1 hr 23 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
-Docker         48 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+TypeScript     12 hrs 39 mins        █████████████▓░░░░░░░░░░░   54.15 %
+Go             2 hrs 13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
+Markdown       2 hrs 2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
+shell script   1 hr 42 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+Docker         48 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
 ```
 
 <!--END_SECTION:waka-->
